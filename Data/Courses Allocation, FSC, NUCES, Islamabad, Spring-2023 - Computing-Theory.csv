@@ -1,0 +1,233 @@
+S.#,Code,Course,CHs,Section,Course Instructor,Course Coordinator,,,
+1,CS-1004,Object Oriented Programming (CS),3,CS-2B,Mr. Shehreyar Rashid,Mr. Shehreyar Rashid,,Dr. Adnan Tariq,3
+2,,Object Oriented Programming (CS),,CS-2C,Mr. Shehreyar Rashid,,,Dr. Aftab Ahmed Maroof,1
+3,,Object Oriented Programming (CS),,CS-2G,Mr. Shehreyar Rashid,,,Dr. Ahmad Raza Shahid,2
+4,,Object Oriented Programming (CS),,CS-2D,Ms. Amna Irum,,,Dr. Akhtar Jamil,2
+5,,Object Oriented Programming (CS),,CS-2E,Ms. Amna Irum,,,Dr. Amna Basharat,3
+6,,Object Oriented Programming (CS),,CS-2A,Mr. Shams Farooq,Ms. Marium Hida,,Dr. Ejaz Ahmed,4
+7,,Object Oriented Programming (CS),,CS-2F,Mr. Shams Farooq,,,Dr. Faisal Cheema,3
+8,,Object Oriented Programming (CS),,CS-2H,Mr. Shams Farooq,,,Dr. Hammad Majeed,5
+9,,Object Oriented Programming (CS),,CS-2J,Ms. Marium Hida,,,Dr. Javeria Imtiaz,2
+10,,Object Oriented Programming (CS),,CS-2K,Ms. Marium Hida,,,Dr. Kashif Munir,2
+11,,Object Oriented Programming (CS),,CS-Z,Dr. Javeria Imtiaz,Dr. Javeria Imtiaz,,Dr. Labiba Fahad,3
+12,EE-1005,Digital Logic Design (CS),3,CS-2A,Ms. Nirmal Tariq,Mr. Shahzad Ahmed (EE),,Dr. Mehreen Alam,2
+13,,Digital Logic Design (CS),,CS-2B,Mr. Shahzad Ahmed (EE),,,Dr. Muhammad Aleem,4
+14,,Digital Logic Design (CS),,CS-2C,Mr. Shahzad Ahmed (EE),,,Dr. Muhammad Arshad Islam,2
+15,,Digital Logic Design (CS),,CS-2D,Mr. Shahzad Ahmed (EE),,,Dr. Muneeb Ullah,3
+16,,Digital Logic Design (CS),,CS-2E,Mr. M. Awais (EE),Dr. Mehwish (S&H),,Dr. Noreen Jamil,3
+17,,Digital Logic Design (CS),,CS-2F,Dr. Niaz Ahmed (EE),,,Dr. Shujaat Hussain,2
+18,,Digital Logic Design (CS),,CS-2G,Dr. Niaz Ahmed (EE),,,Mr. Majid Hussain,4
+19,,Digital Logic Design (CS),,CS-2H,Mr. M. Awais (EE),,,Mr. Muhammad Almas Khan,3
+20,,Digital Logic Design (CS),,CS-2J,Dr. Mehwish (S&H),,,Mr. Owais Idrees,3
+21,,Digital Logic Design (CS),,CS-2K,Dr. Mehwish (S&H),,,Mr. Rohail Gulbaz,2
+22,CS-1004,Object Oriented Programming (AI),3,AI-2A,Mr. Hassan Raza,Mr. Hassan Raza,,Mr. Saad Salman,4
+23,,Object Oriented Programming (AI),,AI-2B,Mr. Adil Majeed,,,Mr. Shams Farooq,3
+24,,Object Oriented Programming (AI),,AI-2C,Mr. Adil Majeed,,,Mr. Shehreyar Rashid,3
+25,,Object Oriented Programming (AI),,AI-2D,Mr. Adil Majeed,,,Mr. Shoaib Mehboob,3
+26,CS-1005,Discrete Structures,3,AI-2A,Ms. Saira Qamar,Ms. Saira Qamar,,Ms. Amna Irum,3
+27,,,,AI-2B,Ms. Saira Qamar,,,Ms. Madiha Umar (visiting),0
+28,,,,AI-2C,Ms. Sobia Rasheed,,,Ms. Marium Hida,2
+29,,,,AI-2D,Ms. Saira Qamar,,,Ms. Nirmal Tariq,3
+30,CS-1004,Object Oriented Programming (DS),3,DS-2A,Mr. Hassan Raza,Mr. Hassan Raza,,Ms. Noor ul Ain,3
+31,,,,DS-2B,Mr. Adil Majeed,,,Ms. Sidra Khalid,3
+32,,,,DS-2C,Dr. M. Ishtiaq,,,Ms. Tajwar Mehmood,3
+33,,,,DS-2D,Dr. M. Ishtiaq,,,Mr. Muhammad Aamir Gulzar,3
+34,CS-1005,Discrete Structures (DS),3,DS-2A,Dr. Abid Rauf,Ms. Saira Qamar,,Mr. Muhammad Usman Khan,4
+35,,,,DS-2B,Dr. Abid Rauf,,,Mr. Salman Iqbal,4
+36,,,,DS-2C,Dr. Abid Rauf,,,Ms. Amina Siddique,3
+37,,,,DS-2D,Dr. Abid Rauf,,,Ms. Amna Hassan,4
+38,CS-1004,Object Oriented Programming (SE),3,SE-2A,Ms. Maheen Arshad,Mr. Bilal Khalid Dar,,Ms. Bushra Fatima Tariq,3
+39,,,,SE-2B,Ms. Maheen Arshad,,,Ms. Fizza Asif Malik,0
+40,,,,SE-2C,Ms. Maheen Arshad,,,Ms. Hira Mastoor,2
+41,,,,SE-2D,Mr. Bilal Khalid Dar,,,Ms. Huma Altaf,4
+42,,,,SE-2E,Mr. Bilal Khalid Dar,,,Ms. Javeria Zia,4
+43,,,,SE-2F,Ms. Uzma Mahar,,,Ms. Maryam Shahbaz,3
+44,,,,SE-2G,Ms. Uzma Mahar,,,Ms. Riva Malik,0
+45,CS-1005,Discrete Structures (SE),3,SE-2A,Ms. Shafaq Riaz,Ms. Shafaq Riaz,,Ms. Sana Razzaq,3
+46,,,,SE-2B,Ms. Shafaq Riaz,,,Ms. Sher Bano,3
+47,,,,SE-2C,Ms. Shafaq Riaz,,,Ms. Urooj Ghani,4
+48,,,,SE-2D,Mr. Majid Hussain,,,,
+49,,,,SE-2E,Dr. Ahmad Raza Shahid,,,,
+50,,,,SE-2F,Dr. Khadija Farooq,,,,
+51,,,,SE-2G,Dr. Khadija Farooq,,,,
+52,SE-1001,Introduction to Software Engineering (SE),3,SE-2A,Dr. Isma ul Hassan,Dr. Khubaib Amjad,,,
+53,,,,SE-2B,Ms. Saba Kanwal,,,,
+54,,,,SE-2C,Dr. Isma ul Hassan,,,,
+55,,,,SE-2D,Dr. Khubaib Amjad,,,,
+56,,,,SE-2E,Dr. Khubaib Amjad,,,,
+57,,,,SE-2F,Dr. Khubaib Amjad,,,,
+58,,,,SE-2G,Dr. Isma ul Hassan,,,,
+59,CS-1004,Object Oriented Programming (CY),3,CY-2A,Mr. Jawad Hassan,Dr. Zainab Abaid,,,
+60,,,,CY-2B,Mr. Jawad Hassan,,,,
+61,,,,CY-2C,Dr. Zainab Abaid,,,,
+62,,,,CY-2D,Dr. Zainab Abaid,,,,
+63,CS-1005,Discrete Structures (CY),3,CY-2A,Ms. Sobia Rasheed,Dr. Subhan Ullah,,,
+64,,,,CY-2B,Ms. Sobia Rasheed,,,,
+65,,,,CY-2C,Dr. Subhan Ullah,,,,
+66,,,,CY-2D,Dr. Subhan Ullah,,,,
+67,CS-1002,Programming Fundamentals (All Programs),3,A,Mr. Shoaib Saleem,Dr. Subhan Ullah,,,
+68,,,,B,Mr. Shoaib Saleem,,,,
+69,,,,C,Dr. Subhan Ullah,,,,
+70,,,,D,Dr. Subhan Ullah,,,,
+71,,,,E,Mr. Majid Hussain,,,,
+72,,,,F,Mr. Majid Hussain,,,,
+73,,,,G,Dr. Muneeb Ullah,,,,
+74,,,,H,Dr. Muneeb Ullah,,,,
+75,,,,J,Mr. Shoaib Saleem,,,,
+76,CS-2005,Database Systems (CS),3,CS-4A/Y,Dr. Shujaat Hussain,Dr. Shujaat Hussain,,,
+77,,,,CS-4B/Z,Dr. Shujaat Hussain,,,,
+78,,,,CS-4C/D,Ms. Noor ul Ain,,,,
+79,,,,CS-4E/V,Dr. Amna Basharat,,,,
+80,,,,CS-4F/H,Ms. Noor ul Ain,,,,
+81,,,,CS-4G,Ms. Noor ul Ain,,,,
+82,CS-2006,Operating Systems (CS),3,CS-4A/Y,Dr. Adnan Tariq,Dr. Faisal Cheema,,,
+83,,,,CS-4B/Z,Dr. Faisal Cheema,,,,
+84,,,,CS-4C/D,Mr. Shoaib Mehboob,,,,
+84,,,,CS-4E/V,Mr. Shoaib Mehboob,,,,
+85,,,,CS-4F/H,Mr. Shoaib Mehboob,,,,
+86,,,,CS-4G,Dr. Faisal Cheema,,,,
+87,CS-2009,Design and Analysis of Algorithms (CS),3,CS-4A/Y,Mr. Owais Idrees,Dr. Kashif Munir,,,
+88,,,,CS-4B/Z,Ms. Nirmal Tariq,,,,
+89,,,,CS-4C/D,Dr. Kashif Munir,,,,
+90,,,,CS-4E/V,Dr. Kashif Munir,,,,
+91,,,,CS-4F/H,Ms. Nirmal Tariq,,,,
+92,,,,CS-4G,Mr. Owais Idrees,,,,
+93,AI-2002,Artificial Intelligence (AI),3,AI-4J,Mr. Umair Arshad,Mr. Umair Arshad,,,
+94,,,,AI-4K,Mr. Umair Arshad,,,,
+95,CS-2004,Fundamentals of Software Engineering (AI),3,AI-4J,Ms. Saba Kanwal,Ms. Saba Kanwal,,,
+96,,,,AI-4K,Ms. Saba Kanwal,,,,
+97,CS-2005,Database Systems (AI),3,AI-4J,Ms. Ayesha Kamran,Ms. Ayesha Kamran,,,
+98,,,,AI-4K,Ms. Ayesha Kamran,,,,
+99,EE-2003,Computer Organization and Assembly Language (AI),3,AI-4J,Ms. Mehreen Javaid,Ms. Mehreen Javaid,,,
+100,,,,AI-4K,Ms. Mehreen Javaid,,,,
+101,CS-2005,Database Systems (DS),3,DS-4M,Dr. Waseem Shahzad,Dr. Ramoza Ahsan,,,
+102,,,,DS-4N,Dr. Ramoza Ahsan,,,,
+103,CS-2004,Fundamentals of Software Engineering (DS),3,DS-4M,Dr. Uzair Iqbal,Dr. Uzair Iqbal,,,
+104,,,,DS-4N,Dr. Uzair Iqbal,,,,
+105,,,,DS-4U,Dr. Uzair Iqbal,,,,
+106,DS-2003,Advanced Statistics (DS),3,DS-4M,Dr. Ahmed Din,Dr. Ahmed Din,,,
+107,,,,DS-4N,Dr. Ahmed Din,,,,
+108,,,,DS-4U,Dr. Ahmed Din,,,,
+109,DS-2004,Fundamentals of Big Data Analytics (DS),3,DS-4M,Dr. Kifayat Ullah Khan,Dr. Kifayat Ullah Khan,,,
+110,,,,DS-4N,Dr. Kifayat Ullah Khan,,,,
+111,,,,DS-4U,Dr. M. Ishtiaq,,,,
+112,CS-2005,Database Systems (SE),3,SE-4P,Ms. Hina Binte Haq,Ms. Hina Binte Haq,,,
+113,,,,SE-4Q,Dr. Javeria Imtiaz,,,,
+114,SE-2002,Software Design and Architecture (SE),3,SE-4P,Dr. Uzair Khan,Dr. Atif Aftab Jilani,,,
+115,,,,SE-4Q,Dr. Atif Aftab Jilani,,,,
+116,SE-4032,Business Process Engineering (SE Supporting - I),3,SE-4P,Dr. Behjat Zuhaira,Dr. Behjat Zuhaira,,,
+117,,,,SE-4Q,Dr. Behjat Zuhaira,,,,
+118,CS-4075,Cloud Computing,3,CY-4T,Dr. Mudassar Aslam,Dr. Mudassar Aslam,,,
+119,CS-2004,Fundamentals of Software Engineering (CY),3,CY-4T,Ms. Uzma Mahar,Ms. Uzma Mahar,,,
+120,CS-3001,Computer Networks (CY),3,CY-4T,Dr. Muhammad Asim,Dr. Muhammad Asim,,,
+121,CS-2001,Data Structures (All Programs),3,A,Ms. Madiha Umar,Ms. Amna Irum,,,
+122,,,,B,Ms. Urooj Ghani,,,,
+123,,,,C,Ms. Amna Irum,,,,
+124,,,,D,Mr. Bilal Khalid Dar,,,,
+125,,,,E,Mr. Rohail Gulbaz,,,,
+126,,,,F,Mr. Rohail Gulbaz,,,,
+127,,,,G,Ms. Madiha Umar,,,,
+128,DS-2001,Introduction to Data Science,3,DS-A,Dr. Ramoza Ahsan,Dr. Ramoza Ahsan,,,
+129,CS-3009,Software Engineering (CS),3,CS-6A,Ms. Sidra Khalid,Ms. Sidra Khalid,,,
+130,,,,CS-6B,Ms. Sidra Khalid,,,,
+131,,,,CS-6C,Dr. Ejaz Ahmed,,,,
+132,,,,CS-6D,Dr. Ejaz Ahmed,,,,
+133,,,,CS-6E,Dr. Noreen Jamil,,,,
+134,,,,CS-6F,Dr. Noreen Jamil,,,,
+135,CS-3006,Parallel and Distributed Computing (CS),3,CS-6A,Dr. Muhammad Arshad Islam,Dr. Muhammad Aleem,,,
+136,,,,CS-6B,Dr. Muhammad Arshad Islam,,,,
+137,,,,CS-6C,Ms. Madiha Umar,,,,
+138,,,,CS-6D,Ms. Madiha Umar,,,,
+139,,,,CS-6E,Dr. Muhammad Aleem,,,,
+140,,,,CS-6F,Dr. Muhammad Aleem,,,,
+141,AI-2002,Artificial Intelligence (CS),3,CS-6A,Mr. Saad Salman,Mr. Saad Salman,,,
+142,,,,CS-6B,Mr. Saad Salman,,,,
+143,,,,CS-6C,Mr. Saad Salman,,,,
+144,,,,CS-6D,Mr. Owais Idrees,,,,
+145,,,,CS-6E,Dr. Labiba Fahad,,,,
+146,,,,CS-6F,Dr. Labiba Fahad,,,,
+147,MT-2002,Statistical Modelling,3,CS-6A,Dr. Shahzad Saleem (EE),Dr. Mukhtar Ullah (EE),,,
+148,,,,CS-6B,Mr. Muhammad Almas Khan,,,,
+149,,,,CS-6C,Mr. Muhammad Almas Khan,,,,
+150,,,,CS-6D,Dr. Shahzad Saleem (EE),,,,
+151,,,,CS-6E,Mr. Muhammad Almas Khan,,,,
+152,,,,CS-6F,Dr. Mukhtar Ullah (EE),,,,
+153,AI-3003,Artificial Neural Networks (AI),3,AI-6J,Mr. Hassan Raza,Mr. Hassan Raza,,,
+154,,,,AI-6K,Mr. Hassan Raza,,,,
+155,CS-3001,Computer Networks (AI),3,AI-6J,Dr. Usman Habib,Dr. Usman Habib,,,
+156,,,,AI-6K,Dr. Usman Habib,,,,
+157,CS-3006,Parallel and Distributed Computing (AI),3,AI-6J,Ms. Humera Sabir,Ms. Humera Sabir,,,
+158,,,,AI-6K,Ms. Humera Sabir,,,,
+159,AI-4001,Fundamentals of Natural Language Processing (AI),3,AI-6J,Dr. Omer Beg,Mr. Umair Arshad,,,
+160,,,,AI-6K,Mr. Umair Arshad,,,,
+161,CS-4055,Digital Image Processing (AI Elective-1),3,AI-6J,Dr. Mohsin Bilal,Dr. Mohsin Bilal,,,
+162,,,,AI-6K,Dr. Mohsin Bilal,,,,
+163,AI-2002,Artificial Intelligence (DS),3,DS-6N,Mr. Umair Arshad,Mr. Umair Arshad,,,
+164,CS-3006,Parallel and Distributed Computing (DS),3,DS-6N,Dr. Qaiser Shafi,Dr. Qaiser Shafi,,,
+165,DS-3002,Data Mining (DS),3,DS-6N,Dr. Asif Naeem,Dr. Asif Naeem,,,
+166,CS-4032,Web Programming (DS-Elective 1),3,DS-6N,Mr. Asif Muhammad,Mr. Asif Muhammad,,,
+167,SE-3003,Web Engineering (SE),3,SE-6P,Mr. Zaheer Sani,Mr. Zaheer Sani,,,
+168,,,,SE-6Q,Mr. Zaheer Sani,,,,
+169,,,,SE-6R,Mr. Zaheer Sani,,,,
+170,,,,SE-6S,Mr. Irfan Ullah,,,,
+171,CS-3001,Computer Networks (SE),3,SE-6P,Mr. Abdullah Abid,Mr. Abdullah Abid,,,
+172,,,,SE-6Q,Mr. Abdullah Abid,,,,
+173,,,,SE-6R,Mr. Abdullah Abid,,,,
+174,,,,SE-6S,Mr. Mehmood ul Hassan,,,,
+175,CS-3002,Information Security (SE),3,SE-6P,Ms. Hina Binte Haq,Ms. Hina Binte Haq,,,
+176,,,,SE-6Q,Dr. Mudassar Aslam,,,,
+177,,,,SE-6R,Dr. Zainab Abad,,,,
+178,,,,SE-6S,Ms. Hina Binte Haq,,,,
+179,AI-4007,Applied Artificial Intelligence (SE Elective - I),3,SE-6P,Ms. Shahela Saif,Ms. Shahela Saif,,,
+180,,,,SE-6Q,Ms. Shahela Saif,,,,
+181,,,,SE-6R,Ms. Shahela Saif,,,,
+182,,,,SE-6S,Mr. Saad Salman,,,,
+183,SE-4009,Process Mining and Simulation (SE Supporting-III),3,SE-6P,Mr. Irfan Ullah, ,,,
+184,,,,SE-6Q,Mr. Irfan Ullah,,,,
+185,,,,SE-6R,Dr. Naveed Ahmad,,,,
+186,,,,SE-6S,Dr. Naveed Ahmad,,,,
+187,AI-2002,Artificial Intelligence (CY),3,CY-6T,Mr. Shoaib Saleem,Mr. Shoaib Saleem,,,
+188,CY-3001,Networks and Cyber Security-II (CY),3,CY-6T,Dr. Qaiser Shafi,Dr. Qaiser Shafi,,,
+189,CY-3002,Vulnerability Assessment & Reverse Engineering (CY),3,CY-6T,Mr. Jawad Hassan,Mr. Jawad Hassan,,,
+190,CS-4061,Ethical Hacking Concepts and Practices (CY),3,CY-6T,Mr. Mehmood ul Hassan,Mr. Mehmood ul Hassan,,,
+191,CS-3005,Theory of Automata,3,CS-A,Ms. Tajwar Mehmood,Ms. Tajwar Mehmood,,,
+192,,,,CS-B,Ms. Tajwar Mehmood,,,,
+193,CS-3004,Software Design and Analysis (CS),3,CS-A,Mr. Majid Hussain,Mr. Majid Hussain,,,
+194,AI-3002,Machine Learning (BS-AI),3,AI-A,Dr. Uzair Iqbal,Dr. Uzair Iqbal,,,
+195,CS-4091,Final Year Project-I (CS),3,CS-8A,FYP Committee,FYP Committee,,,
+196,CS-4092,Final Year Project-II (CS),3,CS-8A,FYP Committee,,,,
+197,AI-4091,Final Year Project-I (AI),3,AI-8JK,FYP Committee,FYP Committee,,,
+198,AI-4092,Final Year Project-II (AI),3,AI-8JK,FYP Committee,,,,
+199,CS-4001,Professional Practices in IT (AI),3,AI-8J,Dr. Aftab Ahmed Maroof,Dr. Atif Mughees,,,
+200,,,,AI-8K,Dr. Atif Mughees,,,,
+201,CS-4085,MLOps (AI),3,AI-8J,Mr. Samiullah,Mr. Samiullah,,,
+202,,,,AI-8K,Mr. Samiullah,,,,
+203,CS-4082,Applied Evolutionary Computing (AI),3,AI-8J,Dr. Hasan Mujtaba,Dr. Hasan Mujtaba,,,
+204,,,,AI-8K,Dr. Hasan Mujtaba,,,,
+205,DS-4091,Final Year Project-I (DS),3,DS-N,FYP Committee,FYP Committee,,,
+206,DS-4092,Final Year Project-II (DS),3,DS-N,FYP Committee,,,,
+207,CY-4091,Final Year Project-I (CY),3,CY-T,FYP Committee,FYP Committee,,,
+208,CY-4092,Final Year Project-II (CY),3,CY-T,FYP Committee,,,,
+209,CS-4001,Professional Practices in IT (CY),3,CY-T,Ms. Humera Sabir,Ms. Humera Sabir,,,
+210,CY-3003,Information Assurance,3,CY-T,Mr. Abdullah Abid,Mr. Abdullah Abid,,,
+211,CY-4048,Security Operations and Administration,3,CY-T,Mr. M. Ahsan Shakeel,Mr. M. Ahsan Shakeel,,,
+212,CS-4055,Digital Image Processing,3,CS-8A,Dr. Akhtar Jamil,Dr. Akhtar Jamil,,,
+213,,,,CS-8B,Dr. Akhtar Jamil,,,,
+214,CS-4083,Distributed Data Engineering,3,CS-8A,Dr. Adnan Tariq,Dr. Adnan Tariq,,,
+215,CS-4084,Quantum Computing,3,CS-8A,Dr. Arbab ,Dr. Arbab ,,,
+216,CS-4038,Data Mining,3,CS-8A,Dr. Ahmad Raza Shahid,Dr. Ahmad Raza Shahid,,,
+218,CS-4061,Ethical Hacking Concepts and Practices,3,CS-8A,Mr. Khawaja Mansoor,Mr. Khawaja Mansoor,,,
+219,CS-4032,Web Programming,3,CS-A,Ms. Sidra Khalid,Ms. Sidra Khalid,,,
+220,,,,CS-B,Ms. Tajwar Mehmood,,,,
+221,CS-4105,Cloud Security,3,CS-8A,Mr. Muhammad Arslan Maqsood,Mr. Muhammad Arslan Maqsood,,,
+222,CS-4063,Natural Language Processing,3,CS-8A,Dr. Mehreen Alam,Dr. Mehreen Alam,,,
+224,CS-4044,Fundamentals of Software Project Management,3,CS-8A,Dr. Noreen Jamil,Dr. Noreen Jamil,,,
+225,,,,CS-8B,Mr. Khateeb Khan,,,,
+226,CS-4073,Database Administration,3,CS-8A,Dr. Ejaz Ahmed,Dr. Ejaz Ahmed,,,
+227,CY-4047,Applied Digital Forensics,3,CS-8A,Mr. Mehmood ul Hassan,Mr. Mehmood ul Hassan,,,
+228,CS-4075,Cloud Computing,3,CS-8A,Dr. Mudassar Aslam,Dr. Mudassar Aslam,,,
+229,,,,CS-8B,Dr. Mudassar Aslam,,,,
+230,CS-4085,MLOPs,3,CS-8A,Dr. Hammad Majeed,Dr. Hammad Majeed,,,
+231,,,,CS-8B,Mr. Shahbaz Hussain (VF),,,,
+232,CS-4067,DevOPs,3,CS-8A,Mr. Saim Safdar,Mr. Saim Safdar,,,
+233,,,,CS-8B,Mr. Saim Safdar,,,,

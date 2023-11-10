@@ -1,0 +1,118 @@
+S.#,Code,Course,CHs,Section,Course Instructor,Course Coordinator
+1,MT-1006,Differential Equations (CS),3,CS-2A,Hamda Khan,Hamda Khan
+2,,,,CS-2B,Hamda Khan,
+3,,,,CS-2C,Hamda Khan,
+4,,,,CS-2D,Arif Hussain,
+5,,,,CS-2E,Usman Rashid,
+6,,,,CS-2F,Usman Rashid,
+7,,,,CS-2G,Sumaira Azhar,
+8,,,,CS-2H,Usman Rashid,
+9,,,,CS-2J,Hamda Khan,
+10,,,,CS-2K,Sumaira Azhar,
+11,,,,CS-2Z,Irfan Shah,
+12,SS-1008,Communication and Presentation Skills (CS),2,CS-2A,Shahzad Mehmood,Zunera Malik
+13,,,,CS-2B,Shahzad Mehmood,
+14,,,,CS-2C,Zunera Malik,
+15,,,,CS-2D,Eeman Mirza,
+16,,,,CS-2E,Zunera Malik,
+17,,,,CS-2F,Amna Hafeez,
+18,,,,CS-2G,Eeman Mirza,
+19,,,,CS-2H,Amna Hafeez,
+20,,,,CS-2J,Shahzad Mehmood,
+21,,,,CS-2K,Shahzad Mehmood,
+22,SS-1003,Pakistan Studies (CS),3,CS-2A,Farooq Dar,Maimoona Rasool
+23,,,,CS-2B,Farooq Dar,
+24,,,,CS-2C,Maimoona Rasool,
+25,,,,CS-2D,Muhammad Ajmal,
+26,,,,CS-2E,Maimoona Rasool,
+27,,,,CS-2F,Muhammad Ajmal,
+28,,,,CS-2G,Gul-e-Aisha,
+29,,,,CS-2H,Fouzia Umer,
+30,,,,CS-2J,Muhammad Ajmal,
+31,,,,CS-2K,Sajid Khan,
+32,MT-1006,Differential Equations (AI),3,AI-2A,Sehrish Hassan,Sehrish Hassan
+33,,,,AI-2B,Sehrish Hassan,
+34,,,,AI-2C,Sehrish Hassan,
+35,,,,AI-2D,Sehrish Hassan,
+36,SS-1008,Communication and Presentation Skills (AI),2,AI-2A,Aqsa Malik,Aqsa Malik
+37,,,,AI-2B,Aqsa Malik,
+38,,,,AI-2C,Aqsa Malik,
+39,,,,AI-2D,Aqsa Malik,
+40,SS-1002,Islamic Studies/Ethics (AI),3,AI-2A,Asim Sehikh,Muhammad Ibrahim
+41,,,,AI-2B,Asim Sehikh,
+42,,,,AI-2C,Muhammad Ibrahim,
+43,,,,AI-2D,Muhammad Ibrahim,
+44,MT-1006,Differential Equations (DS),3,DS-2A,Sumaira Azhar,Usman Rashid
+45,,,,DS-2B,Arif Hussain,
+46,,,,DS-2C,Sumaira Azhar,
+47,,,,DS-2D,Usman Rashid,
+48,SS-1008,Communication and Presentation Skills (DS),2,DS-2A,Sanaa Ilyas,Sanaa Ilyas
+49,,,,DS-2B,Sanaa Ilyas,
+50,,,,DS-2C,Sanaa Ilyas,
+51,,,,DS-2D,Sanaa Ilyas,
+52,SS-1002,Islamic Studies/Ethics  (DS),3,DS-2A,Ussama Ahmed,Ussama Ahmed
+53,,,,DS-2B,Yahya Maqsood,
+54,,,,DS-2C,Abdul Salam,
+55,,,,DS-2D,Abdul Salam,
+56,SS-1008,Communication and Presentation Skills  (SE),2,SE-2A,Aniqa Jahanghir,Zunera Malik
+57,,,,SE-2B,Zunera Malik,
+58,,,,SE-2C,Aniqa Jahanghir,
+59,,,,SE-2D,Amna Hafeez,
+60,,,,SE-2E,Aniqa Jahanghir,
+61,,,,SE-2F,Aniqa Jahanghir,
+62,,,,SE-2G,Zunera Malik,
+63,SS-1002,Islamic Studies/Ethics (SE),3,SE-2A,Ahmed Abdul Rahman,Ahmed Abdul Rahman
+64,,,,SE-2B,Yahya Maqsood,
+65,,,,SE-2C,Sobia Shehzadi ,
+66,,,,SE-2D,Sobia Shehzadi ,
+67,,,,SE-2E,Asad Ullah,
+68,,,,SE-2F,Asim Sheikh,
+69,,,,SE-2G,Usama Ehsan,
+70,MT-1006,Differential Equations (CY),3,CY-2A,Ahtisham Ul Haq,Javeria Akram
+71,,,,CY-2B,Ahtisham Ul Haq,
+72,,,,CY-2C,Javaria Akram,
+73,,,,CY-2D,Javaria Akram,
+74,SS-1008,Communication and Presentation Skills (CY),2,CY-2A,Sadia Nauman,Sadia Nauman
+75,,,,CY-2B,Sadia Nauman,
+76,,,,CY-2C,Sadia Nauman,
+77,,,,CY-2D,Sadia Nauman,
+78,SS-1002,Islamic Studies/Ethics (CY),3,CY-2A,Ussama Ahmed,Mahboobullah
+79,,,,CY-2B,Sobia Shehzadi,
+80,,,,CY-2C,Mahboobullah,
+81,,,,CY-2D,Mahboobullah,
+81,MT-1003,Calculus and Analytical Geometry (All Programs),3,CS-A,Usman Ashraf,Usman Ashraf
+82,,,,CS-B,Usman Ashraf,
+83,,,,CS-C,Amna Bashir,
+84,,,,CS-D,Hina Salman,
+85,,,,CS-E,Imran Shahzad,
+,,,,CS-F,Imran Shahzad,
+86,NS-1001,Applied Physics,3,CS-A,Aisha Ijaz,Aisha Ijaz
+87,,,,CS-B,Aisha Ijaz,
+88,MT-2005,Probability and Statistics (CS),3,CS-4A,Khalil Ullah,Khalil Ullah
+89,,,,CS-4B,Khalil Ullah,
+90,,,,CS-4C,Waqas Munir,
+91,,,,CS-4D,Moomal Bukhari,
+92,,,,CS-4E,Moomal Bukhari,
+93,,,,CS-4F,Waqas Munir,
+94,,,,CS-4G,Sana Saleh (EE),
+95,,,,CS-4H,Sana Saleh (EE),
+96,,,,CS-4Y,Usman Ashraf,
+97,,,,CS-4Z,Usman Ashraf,
+98,SS-2003,Psychology (Elective),3,CS-4A,Nagina Safdar,Nagina Safdar
+99,SS-2014,German Language (CS),3,CS-4A,Afia Qazi,Afia Qazi
+100,MT-2005,Probability and Statistics (SE),3,SE-4P,Khalil Ullah,Khalil Ullah
+101,,,,SE-4Q,Khalil Ullah,
+102,SS-2014,German Language (SE),3,SE-4Q,Ebrahim Riaz,Ebrahim Riaz
+103,SS-2007,Technical and Business Writing (CY),3,CY-4T,Amna Hafeez,Amna Hafeez
+104,CS-2008,Numerical Computing (CS),3,CS-6A,Sara Aziz,Sara Aziz
+105,,,,CS-6B,Muhammad Ali,
+106,,,,CS-6C,Sara Aziz,
+107,,,,CS-6D,Sara Aziz,
+108,,,,CS-6E,Tayyaba Ehsan,
+109,,,,CS-6F,Tayyaba Ehsan,
+110,SS-2007,Technical and Business Writing (All Programs),3,CS-A,Tehreem Wali,Tehreem Wali
+111,,,,CS-B,Tehreem Wali,
+112,,,,CS-C,Tehreem Wali,
+113,,,,CS-D,Summayya Malik,
+114,,,,CS-E,Eeman Mirza,
+115,SS-2014,German Language (CS),3,CS-8A,Afia Qazi,
